@@ -1,7 +1,7 @@
 import "./header.css";
 export const  Header = () => {  
   return(
-<div className="header__content container">
+<div id="header" className="header__content container">
   <div className="site-logo"></div>
 
   <div className="navigation">
